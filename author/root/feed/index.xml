@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>le quang minh &#8211; MyPhone</title>
+	<atom:link href="http://localhost/myproject/wordpress/author/root/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lqminh1742.github.io/shop</link>
+	<description></description>
+	<lastBuildDate>Fri, 02 Jul 2021 07:23:25 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Bất chấp Covid-19, iPhone 12 series đạt doanh số 100 triệu máy sau 7 tháng ra mắt, khả năng vượt mặt iPhone 6</title>
+		<link>https://lqminh1742.github.io/shop/blog/bat-chap-covid-19-iphone-12-series-dat-doanh-so-100-trieu-may-sau-7-thang-ra-mat-kha-nang-vuot-mat-iphone-6/</link>
+					<comments>https://lqminh1742.github.io/shop/blog/bat-chap-covid-19-iphone-12-series-dat-doanh-so-100-trieu-may-sau-7-thang-ra-mat-kha-nang-vuot-mat-iphone-6/#respond</comments>
+		
+		<dc:creator><![CDATA[le quang minh]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 07:06:37 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<guid isPermaLink="false">https://lqminh1742.github.io/shop/?p=406</guid>
+
+					<description><![CDATA[Bất chấp Covid-19, iPhone 12 series đạt doanh số 100 triệu máy sau 7 tháng ra mắt]]></description>
+		
+					<wfw:commentRss>https://lqminh1742.github.io/shop/blog/bat-chap-covid-19-iphone-12-series-dat-doanh-so-100-trieu-may-sau-7-thang-ra-mat-kha-nang-vuot-mat-iphone-6/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Điện thoại iPhone 12 Pro Max giảm sốc bất ngờ mừng sinh nhật, cơ hội săn deal xịn fan &#8216;Táo&#8217; chớ bỏ qua</title>
+		<link>https://lqminh1742.github.io/shop/blog/dien-thoai-iphone-12-pro-max-giam-soc-bat-ngo-mung-sinh-nhat-co-hoi-san-deal-xin-fan-tao-cho-bo-qua/</link>
+					<comments>https://lqminh1742.github.io/shop/blog/dien-thoai-iphone-12-pro-max-giam-soc-bat-ngo-mung-sinh-nhat-co-hoi-san-deal-xin-fan-tao-cho-bo-qua/#respond</comments>
+		
+		<dc:creator><![CDATA[le quang minh]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 07:04:25 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<guid isPermaLink="false">https://lqminh1742.github.io/shop/?p=403</guid>
+
+					<description><![CDATA[Bạn đang muốn săn deal xịn trong dịp ưu đãi lần này của MyPhone thì cơ hội đó nằm ở đây. ]]></description>
+		
+					<wfw:commentRss>https://lqminh1742.github.io/shop/blog/dien-thoai-iphone-12-pro-max-giam-soc-bat-ngo-mung-sinh-nhat-co-hoi-san-deal-xin-fan-tao-cho-bo-qua/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
